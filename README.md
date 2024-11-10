@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
