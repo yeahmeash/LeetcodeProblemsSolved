@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
