@@ -1,17 +1,19 @@
+   import java.util.HashMap;
+import java.util.Map;
+
 class Solution {
     public int majorityElement(int[] nums) {
-        int count = 0;
-        int candidate = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        int majorityCount = nums.length / 2;
 
         for (int num : nums) {
-            if (count == 0) {
-                candidate = num;  // Choose new candidate
-            }
+            map.put(num, map.getOrDefault(num, 0) + 1);
 
-            // Vote: +1 for same, -1 for different
-            count += (num == candidate) ? 1 : -1;
+            if (map.get(num) > majorityCount) {
+                return num;
+            }
         }
 
-        return candidate;  // Assumes majority element always exists
+        throw new IllegalArgumentException("No majority element found");
     }
-}
+} 
