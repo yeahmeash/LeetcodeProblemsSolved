@@ -1,20 +1,18 @@
-import java.util.HashMap;
-import java.util.Map;
-
 class Solution {
-    public int[] numberOfPairs(int[] nums) {
-        Map<Integer, Integer> frequencyMap = new HashMap<>();
-        for (int num : nums) {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
-        }
-        
-        int pairs = 0;
-        int leftovers = 0;
-        for (int count : frequencyMap.values()) {
-            pairs += count / 2;
-            leftovers += count % 2;
-        }
-        
-        return new int[]{pairs, leftovers};
+  public int[] numberOfPairs(int[] nums) {
+    final int MAX = 100;
+    int[] ans = new int[2];
+    int[] count = new int[MAX + 1];
+
+    for (final int num : nums)
+      ++count[num];
+
+    for (int i = 0; i <= MAX; ++i) {
+      ans[0] += count[i] / 2;
+      if (count[i] % 2 == 1)
+        ++ans[1];
     }
+
+    return ans;
+  }
 }
