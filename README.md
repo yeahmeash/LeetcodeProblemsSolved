@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Binary Search
 |  |
 | ------- |
