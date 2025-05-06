@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
