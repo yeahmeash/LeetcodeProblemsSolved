@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
