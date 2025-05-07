@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -79,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
