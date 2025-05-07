@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
+| [0806-domino-and-tromino-tiling](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 ## Quickselect
 |  |
