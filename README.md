@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0190-reverse-bits) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
