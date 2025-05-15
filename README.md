@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Two Pointers
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 ## Graph
