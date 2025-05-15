@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1293-three-consecutive-odds) |
+| [1603-running-sum-of-1d-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -272,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
