@@ -12,7 +12,7 @@ class Solution {
         while (count < rows * cols) {
             for (int i = 0; i < 2; i++) { // every two directions, increase step length
                 for (int j = 0; j < len; j++) {
-                    // check bounds before adding
+                    // check bounds before adding Only if r is between 0 and rows - 1
                     if (r >= 0 && r < rows && c >= 0 && c < cols) {
                         result[count++] = new int[]{r, c};
                     }
