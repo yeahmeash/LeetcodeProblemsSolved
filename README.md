@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
