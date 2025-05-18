@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0498-diagonal-traverse](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0498-diagonal-traverse) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Sliding Window
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Greedy
 |  |
