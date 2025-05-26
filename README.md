@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Stack
 |  |
 | ------- |
@@ -349,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1603-running-sum-of-1d-array) |
 | [3639-zero-array-transformation-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3647-zero-array-transformation-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
