@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2102-find-the-middle-index-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
