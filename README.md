@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1168-duplicate-zeros) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0023-merge-k-sorted-lists) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
