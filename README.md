@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1539-diagonal-traverse-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3647-zero-array-transformation-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3647-zero-array-transformation-iii) |
 ## Shortest Path
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
