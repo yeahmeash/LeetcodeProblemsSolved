@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -415,12 +417,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
