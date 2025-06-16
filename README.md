@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
 | [1539-diagonal-traverse-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3321-type-of-triangle) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
+| [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
@@ -472,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0023-merge-k-sorted-lists) |
+## Ordered Set
+|  |
+| ------- |
+| [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
