@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
