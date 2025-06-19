@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0160-intersection-of-two-linked-lists) |
@@ -131,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0058-length-of-last-word) |
