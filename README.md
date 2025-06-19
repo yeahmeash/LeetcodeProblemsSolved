@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0058-length-of-last-word) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
