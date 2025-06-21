@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0322-coin-change) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0350-intersection-of-two-arrays-ii) |
