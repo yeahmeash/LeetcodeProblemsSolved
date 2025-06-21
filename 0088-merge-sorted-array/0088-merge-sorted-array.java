@@ -2,48 +2,25 @@ import java.util.Arrays;
 
 class Solution {
 
-    public void merge(int[] nums1, int m, int[] nums2, int n) {
-        // Declare 2 pointers:
-        int left = m - 1; // Pointer for nums1
-        int right = 0;    // Pointer for nums2
+public void merge(int[] nums1, int m, int[] nums2, int n) {
+    int p1 = m - 1;           // pointer to end of nums1 data
+    int p2 = n - 1;           // pointer to end of nums2
+    int p = m + n - 1;        // pointer to end of nums1 array
 
-        // Swap the elements until nums1[left] is smaller than nums2[right]:
-        while (left >= 0 && right < n) {
-            if (nums1[left] > nums2[right]) {
-                // Swap elements
-                int temp = nums1[left];
-                nums1[left] = nums2[right];
-                nums2[right] = temp;
-                left--;
-                right++;
-            } else {
-                break;
-            }
-        }
-
-        // Sort nums1 and nums2 individually:
-        Arrays.sort(nums1, 0, m); // Sort only the first m elements of nums1
-        Arrays.sort(nums2);       // Sort all elements of nums2
-
-        // Copy elements from nums2 to nums1 starting from index m:
-        for (int i = 0; i < n; i++) {
-            nums1[m + i] = nums2[i];
+    while (p1 >= 0 && p2 >= 0) {
+        if (nums1[p1] > nums2[p2]) {
+            nums1[p--] = nums1[p1--];  // place larger one
+        } else {
+            nums1[p--] = nums2[p2--];
         }
     }
 
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-
-        int[] nums1 = {1, 4, 8, 10, 0, 0, 0}; // nums1 has extra space for nums2
-        int[] nums2 = {2, 3, 9};
-        int m = 4; // Number of elements in nums1
-        int n = 3; // Number of elements in nums2
-
-        solution.merge(nums1, m, nums2, n);
-
-        System.out.println("The merged array is:");
-        for (int num : nums1) {
-            System.out.print(num + " ");
-        }
+    // If anything is left in nums2, copy it
+    while (p2 >= 0) {
+        nums1[p--] = nums2[p2--];
     }
 }
+
+}
+
+   
