@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Greedy
