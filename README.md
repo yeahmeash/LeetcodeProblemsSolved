@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0874-backspace-string-compare) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0079-word-search) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Matrix
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
