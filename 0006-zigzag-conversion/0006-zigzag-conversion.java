@@ -1,24 +1,20 @@
 class Solution {
-  public String convert(String s, int numRows) {
-    StringBuilder sb = new StringBuilder();
-    List<Character>[] rows = new List[numRows];
-    int k = 0;
-    int direction = numRows == 1 ? 0 : -1;
+ public String convert(String s, int numRows) {
+    if (numRows == 1 || s.length() <= numRows) return s;
 
-    for (int i = 0; i < numRows; ++i)
-      rows[i] = new ArrayList<>();
+    StringBuilder result = new StringBuilder();
+    int cycleLen = 2 * numRows - 2;
 
-    for (final char c : s.toCharArray()) {
-      rows[k].add(c);
-      if (k == 0 || k == numRows - 1)
-        direction *= -1;
-      k += direction;
+    for (int row = 0; row < numRows; row++) {
+        for (int j = row; j < s.length(); j += cycleLen) {
+            result.append(s.charAt(j));
+
+            int diag = j + cycleLen - 2 * row;
+            if (row != 0 && row != numRows - 1 && diag < s.length())
+                result.append(s.charAt(diag));
+        }
     }
+    return result.toString();
+}
 
-    for (List<Character> row : rows)
-      for (final char c : row)
-        sb.append(c);
-
-    return sb.toString();
-  }
 }
