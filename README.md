@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0686-repeated-string-match) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0874-backspace-string-compare) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0686-repeated-string-match) |
 ## Tree
 |  |
 | ------- |
