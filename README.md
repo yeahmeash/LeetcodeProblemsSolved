@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0138-copy-list-with-random-pointer) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0038-count-and-say) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0060-permutation-sequence) |
