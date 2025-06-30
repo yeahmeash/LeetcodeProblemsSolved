@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0067-add-binary) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
