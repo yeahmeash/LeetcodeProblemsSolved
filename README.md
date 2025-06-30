@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0540-single-element-in-a-sorted-array) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -602,9 +605,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 | [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
 ## Design
 |  |
@@ -620,4 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
