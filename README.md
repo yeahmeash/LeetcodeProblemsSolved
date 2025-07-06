@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0686-repeated-string-match) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0686-repeated-string-match) |
 ## Tree
 |  |
