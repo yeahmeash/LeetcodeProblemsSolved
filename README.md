@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0389-find-the-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
