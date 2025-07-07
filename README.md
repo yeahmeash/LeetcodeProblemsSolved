@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0921-spiral-matrix-iii) |
+| [0932-monotonic-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0932-monotonic-array) |
 | [0945-snakes-and-ladders](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0945-snakes-and-ladders) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
