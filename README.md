@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0686-repeated-string-match) |
+| [0742-to-lower-case](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0874-backspace-string-compare) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1058-lexicographically-smallest-equivalent-string) |
