@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0932-monotonic-array) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0890-lemonade-change](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
