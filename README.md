@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-diagonal-traverse-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3307-find-the-maximum-sum-of-node-values) |
