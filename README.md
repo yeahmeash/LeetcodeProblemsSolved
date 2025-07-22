@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1791-richest-customer-wealth) |
+| [1813-maximum-erasure-value](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
+| [1813-maximum-erasure-value](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0594-longest-harmonious-subsequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1813-maximum-erasure-value](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1813-maximum-erasure-value) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
