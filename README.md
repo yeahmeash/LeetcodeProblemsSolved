@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3790-fruits-into-baskets-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
 |  |
 | ------- |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 | [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
+| [3790-fruits-into-baskets-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -793,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3790-fruits-into-baskets-ii) |
 ## Combinatorics
 |  |
 | ------- |
