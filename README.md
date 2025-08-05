@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0389-find-the-difference) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
