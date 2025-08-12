@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0682-baseball-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0389-find-the-difference) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0131-palindrome-partitioning) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Matrix
 |  |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0647-palindromic-substrings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0806-domino-and-tromino-tiling) |
@@ -720,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0070-climbing-stairs) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -872,4 +877,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0826-soup-servings) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
