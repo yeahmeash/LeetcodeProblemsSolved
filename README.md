@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0445-add-two-numbers-ii) |
 | [0826-soup-servings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0826-soup-servings) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
