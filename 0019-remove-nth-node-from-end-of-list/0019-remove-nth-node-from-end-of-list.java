@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution { //T-O(n) S-O(1)
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode res=new ListNode(0,head);
         ListNode dummy=res;
