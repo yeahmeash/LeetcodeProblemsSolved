@@ -2,22 +2,23 @@ class MyHashSet {
     private boolean[] mp;
 
     public MyHashSet() {
-        mp = new boolean[1000001];
-        Arrays.fill(mp, false);
+        mp = new boolean[1000001];  // array from 0 to 1,000,000
+        Arrays.fill(mp, false);     // initially no key is present
     }
 
     public void add(int key) {
-        mp[key] = true;
+        mp[key] = true;   // mark this number as present
     }
 
     public void remove(int key) {
-        mp[key] = false;
+        mp[key] = false;  // mark this number as absent
     }
 
     public boolean contains(int key) {
-        return mp[key];
+        return mp[key];   // return true if present, else false
     }
 }
+
 
 /**
  * Your MyHashSet object will be instantiated and called as such:
