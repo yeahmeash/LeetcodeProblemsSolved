@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0921-spiral-matrix-iii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0816-design-hashset](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
 | [0900-reordered-power-of-2](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Database
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Brainteaser
 |  |
