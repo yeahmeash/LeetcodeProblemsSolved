@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1917-maximum-average-pass-ratio](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
 | [1946-minimum-absolute-sum-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1946-minimum-absolute-sum-difference) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1539-diagonal-traverse-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1539-diagonal-traverse-ii) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2479-meeting-rooms-iii) |
