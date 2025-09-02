@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
@@ -777,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0682-baseball-game) |
@@ -811,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
