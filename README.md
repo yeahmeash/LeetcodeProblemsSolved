@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0594-longest-harmonious-subsequence) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0874-backspace-string-compare) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1628-count-submatrices-with-all-ones) |
