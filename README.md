@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1539-diagonal-traverse-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1539-diagonal-traverse-ii) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -768,12 +770,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Memoization
 |  |
 | ------- |
@@ -918,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
@@ -929,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 ## Binary Indexed Tree
 |  |
