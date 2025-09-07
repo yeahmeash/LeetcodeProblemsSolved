@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-day-of-the-week](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1289-day-of-the-week) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
