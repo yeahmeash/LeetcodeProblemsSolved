@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1019-squares-of-a-sorted-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1168-duplicate-zeros](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1293-three-consecutive-odds) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Memoization
 |  |
 | ------- |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -882,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1628-count-submatrices-with-all-ones) |
 ## Recursion
 |  |
