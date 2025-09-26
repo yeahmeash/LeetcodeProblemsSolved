@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0682-baseball-game) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0611-valid-triangle-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0900-reordered-power-of-2) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0621-task-scheduler) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
