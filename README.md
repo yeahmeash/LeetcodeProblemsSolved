@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0783-search-in-a-binary-search-tree) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0733-flood-fill) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0783-search-in-a-binary-search-tree) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0783-search-in-a-binary-search-tree) |
