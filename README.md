@@ -712,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0131-palindrome-partitioning) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0322-coin-change) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0386-lexicographical-numbers) |
@@ -830,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0226-invert-binary-tree) |
