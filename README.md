@@ -611,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0921-spiral-matrix-iii) |
 | [1119-robot-bounded-in-circle](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1119-robot-bounded-in-circle) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1642-water-bottles](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2479-meeting-rooms-iii) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2704-maximum-difference-by-remapping-a-digit) |
