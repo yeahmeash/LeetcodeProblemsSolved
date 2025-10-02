@@ -1,35 +1,30 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
+        
+		//In the minHeap array, 0th element refers to the curr element in nums1 and 1st element refers to curr element in nums2 
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a,b) -> (a[0] + a[1]) - (b[0] + b[1]));
+        
+		// The 2nd element in the minHeap is the index of nums2, the corresponding element of nums2 is in index1 of minHeap
+        for(int i=0; i < nums1.length && i < k; i++)
+            minHeap.add(new int[]{nums1[i], nums2[0], 0});
+        
         List<List<Integer>> result = new ArrayList<>();
         
-        // Min-heap to store pairs (sum, i, j), where i is index in nums1, and j is index in nums2
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> (a[0] - b[0]));
+       for(int i=0; i < k && !minHeap.isEmpty(); i++){
 
-        // Initialize the heap with the first element of nums1 and all elements of nums2
-        for (int i = 0; i < nums1.length && i < k; i++) {
-            minHeap.offer(new int[]{nums1[i] + nums2[0], i, 0});
-        }
+          int[] curr = minHeap.poll();         // 1️⃣ take out the smallest sum pair
+           result.add(List.of(curr[0], curr[1])); // 2️⃣ record it in result
 
-        // Extract the smallest pairs from the heap
-        while (k-- > 0 && !minHeap.isEmpty()) {
-            int[] curr = minHeap.poll();
-            int sum = curr[0], i = curr[1], j = curr[2];
-            
-            // Convert int[] to List<Integer>
-            List<Integer> pair = new ArrayList<>();
-            pair.add(nums1[i]);
-            pair.add(nums2[j]);
-            result.add(pair);
-            
-            // If there is a next element in nums2, add the new pair (nums1[i], nums2[j+1])
-            if (j + 1 < nums2.length) {
-                minHeap.offer(new int[]{nums1[i] + nums2[j + 1], i, j + 1});
-            }
-        }
-        
+            int nums2Idx = curr[2];              // 3️⃣ track which index of nums2 we used
+
+            if(nums2Idx < nums2.length - 1)      // 4️⃣ if nums2 has more elements
+        minHeap.add(new int[]{curr[0], nums2[nums2Idx + 1], nums2Idx + 1});
+
+        // curr[0] → same nums1 element (stay fixed)
+        // nums2[nums2Idx + 1] → the next element in nums2
+        // nums2Idx + 1 → updated index in nums2 (so we can continue moving forward later)
+}
+
         return result;
     }
 }
-
