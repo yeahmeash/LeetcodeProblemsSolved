@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0812-rotate-string) |
 ## Tree
 |  |
 | ------- |
