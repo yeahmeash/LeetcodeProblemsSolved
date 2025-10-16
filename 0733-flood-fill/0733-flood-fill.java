@@ -1,22 +1,27 @@
-class Solution {
-  public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
-    boolean[][] seen = new boolean[image.length][image[0].length];
-    dfs(image, sr, sc, seen, image[sr][sc], newColor);
-    return image;
-  }
+public class Solution {
+    public int[][] floodFill(int[][] image, int sr, int sc, int newColor) {
+        int oldColor = image[sr][sc];
+        if (oldColor != newColor) {
+            dfs(image, sr, sc, oldColor, newColor);
+        }
+        return image;
+    }
 
-  private void dfs(int[][] image, int i, int j, boolean[][] seen, int startColor, int newColor) {
-    if (i < 0 || i == image.length || j < 0 || j == image[0].length)
-      return;
-    if (image[i][j] != startColor || seen[i][j])
-      return;
+    private void dfs(int[][] image, int r, int c, int oldColor, int newColor) {
+        int rows = image.length;
+        int cols = image[0].length;
 
-    image[i][j] = newColor;
-    seen[i][j] = true;
+        // Base case: out of bounds or not same color
+        if (r < 0 || c < 0 || r >= rows || c >= cols || image[r][c] != oldColor)
+            return;
 
-    dfs(image, i + 1, j, seen, startColor, newColor);
-    dfs(image, i - 1, j, seen, startColor, newColor);
-    dfs(image, i, j + 1, seen, startColor, newColor);
-    dfs(image, i, j - 1, seen, startColor, newColor);
-  }
+        // Change color
+        image[r][c] = newColor;
+
+        // Recurse 4 directions
+        dfs(image, r + 1, c, oldColor, newColor);
+        dfs(image, r - 1, c, oldColor, newColor);
+        dfs(image, r, c + 1, oldColor, newColor);
+        dfs(image, r, c - 1, oldColor, newColor);
+    }
 }
