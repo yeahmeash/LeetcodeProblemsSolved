@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0445-add-two-numbers-ii) |
+| [0593-valid-square](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0593-valid-square) |
 | [0826-soup-servings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0900-reordered-power-of-2) |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0593-valid-square) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Hash Function
 |  |
