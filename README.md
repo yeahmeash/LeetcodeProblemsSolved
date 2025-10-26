@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2102-find-the-middle-index-in-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2169-simple-bank-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2169-simple-bank-system) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1642-water-bottles](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2048-build-array-from-permutation) |
+| [2169-simple-bank-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/3336-water-bottles-ii) |
@@ -1069,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2169-simple-bank-system) |
 ## Database
 |  |
 | ------- |
