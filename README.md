@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2432-number-of-zero-filled-subarrays) |
