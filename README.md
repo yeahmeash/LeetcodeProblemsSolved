@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1813-maximum-erasure-value) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2529-range-product-queries-of-powers) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1894-merge-strings-alternately) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1603-running-sum-of-1d-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2102-find-the-middle-index-in-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/yeahmeash/LeetcodeProblemsSolved/tree/master/2529-range-product-queries-of-powers) |
